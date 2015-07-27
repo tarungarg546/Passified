@@ -8,7 +8,6 @@ basically this app will integrate with database of universities in its own state
 
 
 ```
-#!php
 
 *When we go to avail any student bus pass to travel from our home to college daily.
 Usual process is issue a bonafied from your respective university that
@@ -36,7 +35,6 @@ and then issue challan.*
 
 
 ```
-#!javascript
 
 Technology Stack:- PHP,Javascript,jquery,google map,Aadhaar API
 ```
